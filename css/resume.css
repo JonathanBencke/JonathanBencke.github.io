@@ -218,7 +218,7 @@ a:hover, a:focus, a:active {
 }
 
 .typewriter {
-  width: 710px;
+  width: 1100px;
 }
 
 .typewriter h1 {
@@ -234,7 +234,7 @@ a:hover, a:focus, a:active {
   /* Gives that scrolling effect as the typing happens */
   letter-spacing: .15em;
   /* Adjust as needed */
-  -webkit-animation: typing 3.5s steps(30, end), blinking-cursor 0.65s step-end infinite;
+  -webkit-animation: typing 3.5s steps(50, end), blinking-cursor 0.65s step-end infinite;
   animation: typing 3.5s steps(30, end), blinking-cursor 0.65s step-end infinite;
 }
 
